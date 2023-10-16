@@ -1,0 +1,5 @@
+C:\Users\Milan\source\repos\WebApplication2\FashionWeekLibrary\obj\Debug\netcoreapp3.1\FashionWeekLibrary.csproj.AssemblyReference.cache
+C:\Users\Milan\source\repos\WebApplication2\FashionWeekLibrary\obj\Debug\netcoreapp3.1\FashionWeekLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milan\source\repos\WebApplication2\FashionWeekLibrary\obj\Debug\netcoreapp3.1\FashionWeekLibrary.AssemblyInfoInputs.cache
+C:\Users\Milan\source\repos\WebApplication2\FashionWeekLibrary\obj\Debug\netcoreapp3.1\FashionWeekLibrary.AssemblyInfo.cs
+C:\Users\Milan\source\repos\WebApplication2\FashionWeekLibrary\obj\Debug\netcoreapp3.1\FashionWeekLibrary.csproj.CoreCompileInputs.cache

@@ -1,0 +1,26 @@
+{
+    "kvarovi": [
+    {
+        "urgentnost":"Hitno je",
+        "stanarId":1,
+        "upravnikId":2,
+        "naslov":"Zapušila mi se wc šolja",
+        "opis":"Prevelika količina toalet papira izazvala je zapušenje wc šolje",
+        "status":"Prijavljen",
+        "saradnikId":5,
+        "zgradaLokacija":"Sremska 4",
+        "stan":6
+    },
+        {
+            "urgentnost":"Blabla",
+            "stanarId":1,
+            "upravnikId":2,
+            "naslov":"blabla",
+            "opis":"blabalabaalalablab",
+            "status":"bla bla",
+            "saradnikId":5,
+            "zgradaLokacija":"Sremska 4",
+            "stan":6
+        }
+]
+}

@@ -1,0 +1,215 @@
+DROP TABLE MKMKO
+
+CREATE TABLE MkMko(
+    MkID int,
+    MkoID int,
+    CONSTRAINT PK_MkMko PRIMARY KEY (MkID,MkoID),
+    CONSTRAINT FK_Mk FOREIGN KEY (MkID)
+    REFERENCES ModniKreator(KreatorID),
+    CONSTRAINT FK_Mko FOREIGN KEY (MkoID)
+    REFERENCES ModniKreator(KreatorID)
+);
+
+DROP TABLE MODNIKREATORORGANIZATOR
+
+CREATE TABLE Zemlja(
+    Naziv varchar(20) NOT NULL,
+    AgencijaID NUMBER,
+    CONSTRAINT FK_Agencija FOREIGN KEY (AgencijaID)
+    REFERENCES Agencija(PIB),
+    CONSTRAINT PK_Zemlja PRIMARY KEY (Naziv,AgencijaID)
+    
+);
+
+
+
+CREATE TABLE Zemlja(
+    Naziv varchar(20) NOT NULL,
+    AgencijaID NUMBER,
+    CONSTRAINT CK_TipCheck CHECK (fn_Check_TipAgencije(AgencijaId) = 'True')
+    CONSTRAINT FK_Agencija FOREIGN KEY (AgencijaID)
+    REFERENCES Agencija(PIB),
+    CONSTRAINT PK_Zemlja PRIMARY KEY (Naziv,AgencijaID)
+    
+);
+
+CREATE FUNCTION fn_Check_TipAgencije 
+    (t INT)
+RETURNS VARCHAR(10)
+AS
+BEGIN
+    IF EXISTS (SELECT Tip FROM Agencija WHERE PIB = t AND Tip = 'I') THEN
+        return 'True';
+    ELSE
+        return 'False';
+    END iF;
+END
+
+CREATE FUNCTION fn_Check_TipAgencije 
+    (t int)
+RETURNS VARCHAR(10) AS
+BEGIN
+    return 'true'
+END
+
+CREATE FUNCTION fn_Check_TipAgencije (
+    @t INT
+)
+RETURNS VARCHAR(10)
+AS
+BEGIN
+    IF EXISTS (SELECT Tip FROM Agencija WHERE PIB = @t AND TIP= 'I')
+        return 'True'
+    return 'False'
+END
+
+DROP FUNCTION S18107.fn_Check_TipAgencije
+
+DROP TABLE INTERNACIONALNAAGENCIJA
+
+CREATE SEQUENCE MODNA_KUCA_SEQ
+START WITH 1 INCREMENT BY 1;
+
+CREATE OR REPLACE TRIGGER "MODNA_KUCA_AUTO_PK"
+    BEFORE INSERT 
+    ON MODNAKUCA
+    REFERENCING NEW AS NEW
+    FOR EACH ROW
+BEGIN 
+    SELECT MODNA_KUCA_SEQ.NEXTVAL INTO :NEW.KUCAID FROM DUAL;
+    END;
+
+CREATE SEQUENCE MODNI_KREATOR_SEQ
+START WITH 1 INCREMENT BY 1;
+
+CREATE OR REPLACE TRIGGER "MODNI_KREATOR_AUTO_PK"
+    BEFORE INSERT 
+    ON MODNIKREATOR
+    REFERENCING NEW AS NEW
+    FOR EACH ROW
+BEGIN 
+    SELECT MODNI_KREATOR_SEQ.NEXTVAL INTO :NEW.KREATORID FROM DUAL;
+    END;
+
+
+INSERT INTO ModnaKuca (ImeOsnivaca, SedisteKuce, Naziv)
+VALUES ('Gabrielle Chanel', 'Pariz', 'Chanel');
+
+ 
+
+INSERT INTO ModnaKuca (ImeOsnivaca, SedisteKuce, Naziv)
+VALUES ('Mario Prada', 'Milano', 'Prada');
+
+ 
+
+INSERT INTO ModniKreator (JMBG, Ime, Prezime, ZemljaPorekla, DatumRodjenja, Pol, IDKuce )
+VALUES ('1933201912345', 'Karl', 'Lagerfeld', 'Nemacka', TO_DATE('1933-09-10', 'YYYY-MM-DD'), 'M', 7);
+
+ 
+
+INSERT INTO ModniKreator (JMBG, Ime,Prezime,ZemljaPorekla,DatumRodjenja,Pol, IDKuce)
+VALUES ('1941202229810', 'Miuccia', 'Prada', 'Velika Britanija', TO_DATE('1962-03-13','YYYY-MM-DD'), 'Z', 8);
+
+ 
+
+INSERT INTO ModniKreator (JMBG, Ime,Prezime,ZemljaPorekla,DatumRodjenja,Pol,IDKuce )
+VALUES (1961202327612, 'Virzini','Vijar','Francuska',TO_DATE('1962-03-13','YYYY-MM-DD'),'Z',7);
+
+ 
+
+INSERT INTO Revija(RedniBrojID,Naziv,Mesto,Datum,Vreme,IDOrganizatora,PrvaRevija)
+VALUES (1, 'Revija1', 'Pariz',TO_DATE('2023-04-23','YYYY-MM-DD'),TO_TIMESTAMP('17:23:11', 'HH24:MI:SS'),5,'NE');
+
+INSERT INTO Revija(RedniBrojID,Naziv,Mesto,Datum,Vreme,IDOrganizatora,PrvaRevija)
+VALUES (3, 'Revija3', 'London',TO_DATE('2023-12-20','YYYY-MM-DD'),TO_TIMESTAMP('21:22:11', 'HH24:MI:SS'),6,'DA');
+ 
+
+INSERT INTO Revija(RedniBrojID,Naziv,Mesto,Datum,Vreme)
+VALUES (2, 'Revija2', 'Milano',TO_DATE('2023-02-12','YYYY-MM-DD'),TO_TIMESTAMP('10:33:51', 'HH24:MI:SS'));
+
+INSERT INTO Revija(RedniBrojID,Naziv,Mesto,Datum,Vreme,IDOrganizatora,PrvaRevija)
+VALUES (4, 'Revija4', 'Pariz',TO_DATE('2023-10-06','YYYY-MM-DD'),TO_TIMESTAMP('21:22:11', 'HH24:MI:SS'),7,'NE');
+ 
+ 
+
+INSERT INTO Agencija(PIB,Naziv,Sediste,DatumOsnivanja, TIP)
+VALUES (1, 'SMM', 'Pariz',TO_DATE('2023-02-12','YYYY-MM-DD'), 'I');
+
+ 
+
+INSERT INTO Agencija(PIB,Naziv,Sediste,DatumOsnivanja, TIP)
+VALUES (2, 'IKK', 'Beograd',TO_DATE('2020-08-06', 'YYYY-MM-DD'), 'D');
+
+ 
+
+INSERT INTO Maneken(JMBG,Ime,Prezime,DatumRodjenja,Pol,VisinaCM,TezinaKG,BojaOciju,BojaKose,KonfekcijskiBroj,Tip,AgencijaID)
+VALUES ('1234567891001','Kejt','Mos',TO_DATE('1962-03-13','YYYY-MM-DD'),'Z',184,56,'Plava','Plava','xs','M',1);
+
+INSERT INTO Maneken(JMBG,Ime,Prezime,DatumRodjenja,Pol,VisinaCM,TezinaKG,BojaOciju,BojaKose,KonfekcijskiBroj,Tip,Zanimanje)
+VALUES ('1220001457812','Kim','Kardashian',TO_DATE('1989-03-13','YYYY-MM-DD'),'Z',156,50,'Crna','Braon','s','S','rijaliti zvezda');
+
+INSERT INTO KOLEKCIJA(Naziv,Opis,Sezona,RevijaID, IDMODNEKUCE)
+VALUES ('Kolekcija1','Lepo','Jesen',1, 8);
+
+INSERT INTO KOLEKCIJA(Naziv,Opis,Sezona,RevijaID, IDModneKuce)
+VALUES ('Kolekcija2','Super','Prolece',1, 7);
+
+INSERT INTO MkMko(MkID,MkoID)
+VALUES (4,7);
+
+INSERT INTO MkMko(MkID,MkoID)
+VALUES (6,7);
+
+
+INSERT INTO KreatorRevija(KreatorID,RevijaID)
+VALUES (5,2);
+
+INSERT INTO KreatorRevija(KreatorID,RevijaID)
+VALUES (6,1);
+ 
+
+INSERT INTO RevijaManekeni(RevijaID,ManekenID)
+VALUES (1,'1234567891001');
+
+INSERT INTO RevijaManekeni(RevijaID,ManekenID)
+VALUES (4,'1220001457812');
+ 
+INSERT INTO RevijaManekeni(RevijaID,ManekenID)
+VALUES (4,'1234567891001');
+
+
+INSERT INTO NazivNaslovne(NaslovnaStrana,JMBGManekena)
+VALUES ('Vogue','1234567891001');
+
+ 
+
+INSERT INTO NazivNaslovne(NaslovnaStrana,JMBGManekena)
+VALUES ('Vanity Fair','1234567891001');
+
+
+INSERT INTO Zemlja(Naziv,AgencijaID)
+VALUES ('Spanija',1);
+
+
+INSERT INTO Zemlja(Naziv,AgencijaID)
+VALUES ('Francuska',1);
+
+ 
+
+INSERT INTO Zemlja(Naziv,AgencijaID)
+VALUES ('Italija',1);
+
+
+INSERT INTO VlasniciModnihKuca(ImeVlasnika,JEDID)
+VALUES ('Marco Bizzarri',4);
+
+ 
+
+INSERT INTO VlasniciModnihKuca(ImeVlasnika,JEDID)
+VALUES ('Kering group',7);
+
+ 
+
+
+
+

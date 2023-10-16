@@ -1,0 +1,116 @@
+{
+    "ankete": [
+      {
+        "id": "poll1",
+        "question": "Favorite Color",
+        "options": [
+          {
+            "id": "option11",
+            "text": "Red",
+            "percentage": 70
+          },
+          {
+            "id": "option21",
+            "text": "Blue",
+            "percentage": 10.00
+          },
+          {
+            "id": "option41",
+            "text": "Green",
+            "percentage": 10.67
+          },
+          {
+            "id": "option31",
+            "text": "Yellow",
+            "percentage": 10.67
+          }
+        ],
+        "vote": null
+          
+      },
+      {
+        "id": "poll2",
+        "question": "Favorite Animal",
+        "options": [
+          {
+            "id": "option12",
+            "text": "Dog",
+            "percentage": 32.00
+          },
+          {
+            "id": "option22",
+            "text": "Cat",
+            "percentage": 48.00
+          },
+          {
+            "id": "option32",
+            "text": "Bird",
+            "percentage": 20.00
+          }
+        ],
+        "vote": "option22"
+      },
+      {
+        "id": "poll3",
+        "question": "DaNe",
+        "options": [
+          {
+            "id": "option111",
+            "text": "Da",
+            "percentage": 70
+          },
+          {
+            "id": "option212",
+            "text": "Ne",
+            "percentage": 30.00
+          }
+        ],
+        "vote": "option212"
+          
+      },
+      {
+        "id": "poll4",
+        "question": "Anketa sa 7",
+        "options": [
+          {
+            "id": "option117",
+            "text": "Jedan",
+            "percentage": 10
+          },
+          {
+            "id": "option217",
+            "text": "Dva",
+            "percentage": 10.00
+          },
+          {
+            "id": "option417",
+            "text": "Tri",
+            "percentage": 10.00
+          },
+          {
+            "id": "option317",
+            "text": "Cetiri",
+            "percentage": 10.00
+          },
+          {
+            "id": "option517",
+            "text": "Pet",
+            "percentage": 10.00
+          },
+          {
+            "id": "option617",
+            "text": "Sest",
+            "percentage": 40.00
+          },
+          {
+            "id": "option717",
+            "text": "Sedam",
+            "percentage": 10.00
+          }
+        ],
+        "vote": null
+          
+      }
+    ]
+  }
+  

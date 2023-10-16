@@ -1,0 +1,22 @@
+   { 
+    "profilStanara": 
+      {
+        "id": 1,
+        "username": "jkinane0@smartwalls.com",
+        "password": "qIC2DKCWQ",
+        "tipKorisnika": "Stanar",
+        "ime": "Junia",
+        "prezime": "Kinane",
+        "telefon": "383-112-2450",
+        "email": "jkinane0@smartwalls.com",
+        "brStana": 21,
+        "dugovanje":454,
+        "zgrada":"Adresa 123",
+        "brojUkucana":3,
+        "kvarovi":[
+            {}
+        ],
+        "upravnikId": 2
+
+      }
+    }

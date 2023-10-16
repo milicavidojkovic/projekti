@@ -1,0 +1,121 @@
+CREATE TABLE ModnaKuca (
+    KucaID int NOT NULL,
+    NAZIV varchar(20) NOTNULL,
+    ImeOsnivaca varchar(30) NOT NULL,
+    SedisteKuce varchar(30),
+    PRIMARY KEY (KucaID)
+);
+CREATE TABLE ModniKreator(
+    KreatorID int NOT NULL,
+    JMBG varchar(13) NOT NULL,
+    Ime varchar(20) NOT NULL,
+    Prezime varchar(20) NOT NULL,
+    ZemljaPorekla varchar(20),
+    DatumRodjenja date,
+    Pol char(1) NOT NULL,
+    IDKuce int,
+    PRIMARY KEY (KreatorID),
+    CONSTRAINT chk1 CHECK (Pol = 'M' or Pol = 'Z'),
+    CONSTRAINT FK_KreatorKuca FOREIGN KEY (IDKuce)
+    REFERENCES ModnaKuca(KucaID)
+);
+
+CREATE TABLE Revija(
+    RedniBrojID int NOT NULL,
+    Naziv varchar(20) NOT NULL,
+    Mesto varchar(20),
+    Datum date,
+    Vreme timestamp,
+    IDOrganizatora int,
+    PrvaRevija varchar(2),
+    PRIMARY KEY (RedniBrojID),
+    CONSTRAINT chk2 CHECK(PrvaRevija = 'DA' or PrvaRevija = 'NE'),
+    CONSTRAINT FK_Organizator FOREIGN KEY (IDOrganizatora)
+    REFERENCES ModniKreator(KreatorID)
+);
+CREATE TABLE Agencija(
+    PIB int NOT NULL,
+    Naziv varchar(20) NOT NULL,
+    Sediste varchar(20),
+    DatumOsnivanja date,
+    PRIMARY KEY (PIB)
+);
+
+
+CREATE TABLE Maneken(
+    JMBG varchar(13) NOT NULL,
+    Ime varchar(15) NOT NULL,
+    Prezime varchar(15) NOT NULL,
+    DatumRodjenja date,
+    Pol varchar(1) NOT NULL,
+    VisinaCM int,
+    TezinaKG int,
+    BojaOciju varchar(10),
+    BojaKose varchar(10),
+    KonfekcijskiBroj varchar(10),
+    AgencijaID int,
+    Zanimanje varchar(15),
+    PRIMARY KEY(JMBG),
+    CONSTRAINT chk4 CHECK (Pol = 'M' or Pol = 'Z'),
+    Tip varchar(1) NOT NULL,
+    CONSTRAINT chk3 CHECK(Tip = 'M' or Tip = 'S'),
+    CONSTRAINT FK_Agencija1 FOREIGN KEY (AgencijaID)
+    REFERENCES Agencija(PIB)
+);
+CREATE TABLE KreatorRevija(
+    KreatorID int,
+    RevijaID int,
+    CONSTRAINT PK_KreatorRevija PRIMARY KEY (KreatorID,RevijaID),
+    CONSTRAINT FK_Kreator FOREIGN KEY (KreatorID)
+    REFERENCES ModniKreator(KreatorID),
+    CONSTRAINT FK_Revija FOREIGN KEY (RevijaID)
+    REFERENCES Revija(RedniBrojID)
+);
+CREATE TABLE MkMko(
+    MkID int,
+    MkoID int,
+    CONSTRAINT PK_MkMko PRIMARY KEY (MkID,MkoID),
+    CONSTRAINT FK_Mk FOREIGN KEY (MkID)
+    REFERENCES ModniKreator(KreatorID),
+    CONSTRAINT FK_Mko FOREIGN KEY (MkoID)
+    REFERENCES ModniKreator(KreatorID)
+);
+CREATE TABLE RevijaManekeni(
+    RevijaID int,
+    ManekenID varchar(13),
+    CONSTRAINT PK_RevijaManekeni PRIMARY KEY (RevijaID, ManekenID),
+    CONSTRAINT FK_Revija1 FOREIGN KEY (RevijaID)
+    REFERENCES Revija(RedniBrojID),
+    CONSTRAINT FK_Maneken FOREIGN KEY (ManekenID)
+    REFERENCES Maneken(JMBG)
+);
+CREATE TABLE NazivNaslovne(
+    NaslovnaStrana varchar(40),
+    JMBGManekena varchar(13),
+    CONSTRAINT FK_Maneken1 FOREIGN KEY(JMBGManekena)
+    REFERENCES Maneken(JMBG),
+    CONSTRAINT PK_Naslovna PRIMARY KEY(NaslovnaStrana,JMBGManekena)
+);
+CREATE TABLE Zemlja(
+    Naziv varchar(20) NOT NULL,
+    InternacionalnaAgencijaID int,
+    CONSTRAINT FK_Agencija FOREIGN KEY (AgencijaID)
+    REFERENCES Agencija(PIB),
+    CONSTRAINT PK_Zemlja PRIMARY KEY (Naziv,AgencijaID)
+);
+CREATE TABLE VlasniciModnihKuca(
+   ImeVlasnika varchar (40),
+   JedNaziv int,
+   CONSTRAINT FK_Kuca FOREIGN KEY (JedNaziv)
+   REFERENCES ModnaKuca(KucaID),
+   CONSTRAINT PK_Vlasnik PRIMARY KEY (ImeVlasnika,JedNaziv)
+);
+CREATE TABLE KOLEKCIJA(
+    Naziv varchar(20) NOT NULL,
+    Opis varchar(255),
+    Sezona varchar (20),
+    RevijaID int NOT NULL,
+    CONSTRAINT FK_Revija2 FOREIGN KEY (RevijaID)
+    REFERENCES Revija(RedniBrojID),
+    CONSTRAINT PK_Kolekcija PRIMARY KEY (Naziv,RevijaID)
+);

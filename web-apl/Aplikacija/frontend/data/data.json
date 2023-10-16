@@ -1,0 +1,1097 @@
+{
+  "saradnik": [
+    {
+      "id": 1,
+      "username": "jkinane0",
+      "password": "qIC2DKCWQ",
+      "tipKorisnika": "Saradnik",
+      "ime": "Junia",
+      "prezime": "Kinane",
+      "imeFirme": "Meevee",
+      "telefon": "383-112-2450",
+      "email": "jkinane0@globo.com",
+      "dobijeniKvarovi": []
+    },
+    {
+      "id": 2,
+      "username": "abehnecken1",
+      "password": "b0rEusZtew",
+      "tipKorisnika": "Saradnik",
+      "ime": "Abraham",
+      "prezime": "Behnecken",
+      "imeFirme": "Eamia",
+      "telefon": "595-400-3460",
+      "email": "abehnecken1@sfgate.com",
+      "dobijeniKvarovi": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 3,
+      "username": "lsweet2",
+      "password": "R55GDl",
+      "tipKorisnika": "Saradnik",
+      "ime": "Lissy",
+      "prezime": "Sweet",
+      "imeFirme": "Dabshots",
+      "telefon": "510-629-4883",
+      "email": "lsweet2@noaa.gov",
+      "dobijeniKvarovi": [
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 4,
+      "username": "hhirjak3",
+      "password": "wOVraZUStOfw",
+      "tipKorisnika": "Saradnik",
+      "ime": "Holden",
+      "prezime": "Hirjak",
+      "imeFirme": "Wikido",
+      "telefon": "457-881-6643",
+      "email": "hhirjak3@sciencedaily.com",
+      "dobijeniKvarovi": [
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 5,
+      "username": "cplewright4",
+      "password": "uppAAwXJ",
+      "tipKorisnika": "Saradnik",
+      "ime": "Caye",
+      "prezime": "Plewright",
+      "imeFirme": "Meedoo",
+      "telefon": "906-220-2101",
+      "email": "cplewright4@gizmodo.com",
+      "dobijeniKvarovi": []
+    },
+    {
+      "id": 6,
+      "username": "xdunlop5",
+      "password": "7sTUGFZdjy",
+      "tipKorisnika": "Saradnik",
+      "ime": "Xylina",
+      "prezime": "Dunlop",
+      "imeFirme": "Twimbo",
+      "telefon": "658-155-2250",
+      "email": "xdunlop5@behance.net",
+      "dobijeniKvarovi": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 7,
+      "username": "vraubenheimers6",
+      "password": "6YKQGsBdxILU",
+      "tipKorisnika": "Saradnik",
+      "ime": "Valina",
+      "prezime": "Raubenheimers",
+      "imeFirme": "Babbleset",
+      "telefon": "806-401-1191",
+      "email": "vraubenheimers6@mediafire.com",
+      "dobijeniKvarovi": [
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 8,
+      "username": "sepp7",
+      "password": "xK1sz0Bs",
+      "tipKorisnika": "Saradnik",
+      "ime": "Sebastian",
+      "prezime": "Epp",
+      "imeFirme": "Wikivu",
+      "telefon": "650-255-5081",
+      "email": "sepp7@tripadvisor.com",
+      "dobijeniKvarovi": [
+        {}
+      ]
+    },
+    {
+      "id": 9,
+      "username": "cbraisted8",
+      "password": "GdDiFT",
+      "tipKorisnika": "Saradnik",
+      "ime": "Cathrin",
+      "prezime": "Braisted",
+      "imeFirme": "Vinte",
+      "telefon": "846-338-9667",
+      "email": "cbraisted8@google.pl",
+      "dobijeniKvarovi": []
+    },
+    {
+      "id": 10,
+      "username": "sbutchart9",
+      "password": "n7mc9zYzyg",
+      "tipKorisnika": "Saradnik",
+      "ime": "Sibbie",
+      "prezime": "Butchart",
+      "imeFirme": "Photolist",
+      "telefon": "436-882-7719",
+      "email": "sbutchart9@facebook.com",
+      "dobijeniKvarovi": [
+        {}
+      ]
+    },
+    {
+      "id": 11,
+      "username": "rhebbesa",
+      "password": "HibU6DoPnO",
+      "tipKorisnika": "Saradnik",
+      "ime": "Reggis",
+      "prezime": "Hebbes",
+      "imeFirme": "Riffpedia",
+      "telefon": "607-662-7349",
+      "email": "rhebbesa@theatlantic.com",
+      "dobijeniKvarovi": [
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 12,
+      "username": "jgookeb",
+      "password": "rzQu96wbttW",
+      "tipKorisnika": "Saradnik",
+      "ime": "Jase",
+      "prezime": "Gooke",
+      "imeFirme": "Kanoodle",
+      "telefon": "788-131-7192",
+      "email": "jgookeb@addthis.com",
+      "dobijeniKvarovi": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 13,
+      "username": "ggullenc",
+      "password": "pIZaRyTz4Sl",
+      "tipKorisnika": "Saradnik",
+      "ime": "Gladi",
+      "prezime": "Gullen",
+      "imeFirme": "Twinder",
+      "telefon": "681-194-6155",
+      "email": "ggullenc@free.fr",
+      "dobijeniKvarovi": [
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 14,
+      "username": "sattond",
+      "password": "NnXKuvjkI",
+      "tipKorisnika": "Saradnik",
+      "ime": "Sarita",
+      "prezime": "Atton",
+      "imeFirme": "Snaptags",
+      "telefon": "783-938-3930",
+      "email": "sattond@answers.com",
+      "dobijeniKvarovi": [
+        {}
+      ]
+    },
+    {
+      "username": "nen",
+      "password": "",
+      "tipKorisnika": "Saradnik",
+      "ime": "eneen",
+      "prezime": "nene",
+      "imeFirme": "nene",
+      "telefon": "5551155555",
+      "email": "milica.vidojkovic@outlook.com",
+      "dobijeniKvarovi": [],
+      "id": 17
+    },
+    {
+      "username": "milica",
+      "password": " nfnf",
+      "tipKorisnika": "Saradnik",
+      "ime": "Milica",
+      "prezime": "Vidojkovic",
+      "imeFirme": "EkoStraza",
+      "telefon": "+381628128633",
+      "email": "milica.vidojkovic@outlook.com",
+      "dobijeniKvarovi": {},
+      "id": 18
+    }
+  ],
+  "upravnik": [
+    {
+      "upravnikId": 1,
+      "username": "bcallis0",
+      "password": "EA0b8dWkh",
+      "tipKorisnika": "Upravnik",
+      "ime": "Barry",
+      "prezime": "Callis",
+      "zgrade": [
+        {
+          "id": 3,
+          "brStanova": 121,
+          "lokacija": "52 Sutherland Hill",
+          "stanari": [
+            "kdkd"
+          ],
+          "upravnikId": null,
+          "kvarovi": null
+        }],
+      "telefon": "938-796-7166",
+      "email": "bcallis0@paypal.com",
+      "direktorId": 1
+    },
+    {
+      "upravnikId": 2,
+      "username": "gsommerville1",
+      "password": "WIY3MTGctIkk",
+      "tipKorisnika": "Upravnik",
+      "ime": "Gabrila",
+      "prezime": "Sommerville",
+      "zgrade": [
+        
+      ],
+      "telefon": "120-270-6991",
+      "email": "gsommerville1@mapquest.com",
+      "direktorId": 1
+    },
+    {
+      "upravnikId": 3,
+      "username": "dalbery2",
+      "password": "nX8Y2yY3",
+      "tipKorisnika": "Upravnik",
+      "ime": "Deva",
+      "prezime": "Albery",
+      "zgrade": [
+        {
+          "id": 3,
+          "brStanova": 121,
+          "lokacija": "52 Sutherland Hill",
+          "stanari": [
+            "kdkd"
+          ],
+          "upravnikId": null,
+          "kvarovi": null
+        }],
+      "telefon": "392-967-3970",
+      "email": "dalbery2@usnews.com",
+      "direktorId": 1
+    },
+    {
+      "upravnikId": 4,
+      "username": "agolling3",
+      "password": "rP3wRIq",
+      "tipKorisnika": "Upravnik",
+      "ime": "Arvy",
+      "prezime": "Golling",
+      "zgrade": [
+        {
+          "id": 3,
+          "brStanova": 121,
+          "lokacija": "52 Sutherland Hill",
+          "stanari": [
+            "kdkd"
+          ],
+          "upravnikId": null,
+          "kvarovi": null
+        }],
+      "telefon": "537-153-6025",
+      "email": "agolling3@miitbeian.gov.cn",
+      "direktorId": 1
+    },
+    {
+      "upravnikId": 5,
+      "username": "creilinger4",
+      "password": "t9FR8FBO",
+      "tipKorisnika": "Upravnik",
+      "ime": "Christyna",
+      "prezime": "Reilinger",
+      "zgrade": [
+        {
+          "id": 3,
+          "brStanova": 121,
+          "lokacija": "52 Sutherland Hill",
+          "stanari": [
+            "kdkd"
+          ],
+          "upravnikId": null,
+          "kvarovi": null
+        }],
+      "telefon": "906-140-8762",
+      "email": "creilinger4@npr.org",
+      "direktorId": 1
+    },
+    {
+      "upravnikId": 6,
+      "username": "stolchard5",
+      "password": "i4eZvBUpvCPR",
+      "tipKorisnika": "Upravnik",
+      "ime": "Sandra",
+      "prezime": "Tolchard",
+      "zgrade": [
+        {
+          "id": 3,
+          "brStanova": 121,
+          "lokacija": "52 Sutherland Hill",
+          "stanari": [
+            "kdkd"
+          ],
+          "upravnikId": null,
+          "kvarovi": null
+        }],
+      "telefon": "833-962-6510",
+      "email": "stolchard5@ehow.com",
+      "direktorId": 1
+    },
+    {
+      "upravnikId": 7,
+      "username": "josgar6",
+      "password": "nJHd0JGfKwJg",
+      "tipKorisnika": "Upravnik",
+      "ime": "Jan",
+      "prezime": "Osgar",
+      "zgrade": [
+       
+      ],
+      "telefon": "375-570-6519",
+      "email": "josgar6@miibeian.gov.cn",
+      "direktorId": 1
+    },
+    {
+      "upravnikId": 8,
+      "username": "dbrunke7",
+      "password": "hZwqGWwDdN",
+      "tipKorisnika": "Upravnik",
+      "ime": "Dominga",
+      "prezime": "Brunke",
+      "zgrade": [
+        {
+          "id": 3,
+          "brStanova": 121,
+          "lokacija": "52 Sutherland Hill",
+          "stanari": [
+            "kdkd"
+          ],
+          "upravnikId": null,
+          "kvarovi": null
+        }, {
+          "id": 3,
+          "brStanova": 121,
+          "lokacija": "52 Sutherland Hill",
+          "stanari": [
+            "kdkd"
+          ],
+          "upravnikId": null,
+          "kvarovi": null
+        }],
+      "telefon": "901-735-8746",
+      "email": "dbrunke7@gov.uk",
+      "direktorId": 1
+    },
+    {
+      "upravnikId": 9,
+      "username": "mkealey8",
+      "password": "BgN9GMepl",
+      "tipKorisnika": "Upravnik",
+      "ime": "Myrna",
+      "prezime": "Kealey",
+      "zgrade": [
+        {
+          "id": 3,
+          "brStanova": 121,
+          "lokacija": "52 Sutherland Hill",
+          "stanari": [
+            "kdkd"
+          ],
+          "upravnikId": null,
+          "kvarovi": null
+        }, {
+          "id": 3,
+          "brStanova": 121,
+          "lokacija": "52 Sutherland Hill",
+          "stanari": [
+            "kdkd"
+          ],
+          "upravnikId": null,
+          "kvarovi": null
+        }],
+      "telefon": "492-403-3538",
+      "email": "mkealey8@tinyurl.com",
+      "direktorId": 1
+    },
+    {
+      "upravnikId": 10,
+      "username": "mswash9",
+      "password": "Jlen5Eh",
+      "tipKorisnika": "Upravnik",
+      "ime": "Mab",
+      "prezime": "Swash",
+      "zgrade": [
+        {
+          "id": 3,
+          "brStanova": 121,
+          "lokacija": "52 Sutherland Hill",
+          "stanari": [
+            "kdkd"
+          ],
+          "upravnikId": null,
+          "kvarovi": null
+        }, {
+          "id": 3,
+          "brStanova": 121,
+          "lokacija": "52 Sutherland Hill",
+          "stanari": [
+            "kdkd"
+          ],
+          "upravnikId": null,
+          "kvarovi": null
+        }],
+      "telefon": "929-651-6598",
+      "email": "mswash9@amazon.com",
+      "direktorId": 10
+    },
+    {
+      "upravnikId": 11,
+      "username": "khollowa",
+      "password": "XmYbVET",
+      "tipKorisnika": "Upravnik",
+      "ime": "Kendrick",
+      "prezime": "Hollow",
+      "zgrade": [
+        {
+          "id": 3,
+          "brStanova": 121,
+          "lokacija": "52 Sutherland Hill",
+          "stanari": [
+            "kdkd"
+          ],
+          "upravnikId": null,
+          "kvarovi": null
+        }, {
+          "id": 3,
+          "brStanova": 121,
+          "lokacija": "52 Sutherland Hill",
+          "stanari": [
+            "kdkd"
+          ],
+          "upravnikId": null,
+          "kvarovi": null
+        }],
+      "telefon": "177-981-2238",
+      "email": "khollowa@rambler.ru",
+      "direktorId": 11
+    },
+    {
+      "upravnikId": 12,
+      "username": "ggookeb",
+      "password": "q0JDsE",
+      "tipKorisnika": "Upravnik",
+      "ime": "Gino",
+      "prezime": "Gooke",
+      "zgrade": [
+        {
+          "id": 3,
+          "brStanova": 121,
+          "lokacija": "52 Sutherland Hill",
+          "stanari": [
+            "kdkd"
+          ],
+          "upravnikId": null,
+          "kvarovi": null
+        }],
+      "telefon": "968-244-1541",
+      "email": "ggookeb@psu.edu",
+      "direktorId": 12
+    },
+    {
+      "upravnikId": 13,
+      "username": "lpadsonc",
+      "password": "g4w1RuYq",
+      "tipKorisnika": "Upravnik",
+      "ime": "L;urette",
+      "prezime": "Padson",
+      "zgrade": [
+       
+      ],
+      "telefon": "838-538-7130",
+      "email": "lpadsonc@free.fr",
+      "direktorId": 13
+    },
+    {
+      "upravnikId": 14,
+      "username": "ogalbrethd",
+      "password": "YoHUfyFaMQ",
+      "tipKorisnika": "Upravnik",
+      "ime": "Ogdon",
+      "prezime": "Galbreth",
+      "zgrade": [
+        {
+          "id": 3,
+          "brStanova": 121,
+          "lokacija": "52 Sutherland Hill",
+          "stanari": [
+            "kdkd"
+          ],
+          "upravnikId": null,
+          "kvarovi": null
+        }],
+      "telefon": "973-670-1906",
+      "email": "ogalbrethd@opensource.org",
+      "direktorId": 14
+    },
+    {
+      "upravnikId": 15,
+      "username": "kdobblee",
+      "password": "YwRVvv",
+      "tipKorisnika": "Upravnik",
+      "ime": "Katharyn",
+      "prezime": "Dobble",
+      "zgrade": [
+        {
+          "id": 3,
+          "brStanova": 121,
+          "lokacija": "52 Sutherland Hill",
+          "stanari": [
+            "kdkd"
+          ],
+          "upravnikId": null,
+          "kvarovi": null
+        }],
+      "telefon": "569-954-9054",
+      "email": "kdobblee@eventbrite.com",
+      "direktorId": 15
+    },
+    {
+      "username": "bdbdbdbbb",
+      "password": "snsnsns",
+      "tipKorisnika": "Upravnik",
+      "ime": "ndnd",
+      "prezime": "bdbdb",
+      "telefon": "5551155555",
+      "email": "milica.vidojkovic@outlook.com",
+      "direktorId": 1,
+      "zgrade": [
+        {
+          "id": 3,
+          "brStanova": 121,
+          "lokacija": "52 Sutherland Hill",
+          "stanari": [
+            "kdkd"
+          ],
+          "upravnikId": null,
+          "kvarovi": null
+        }
+      ],
+      "upravnikId": 17
+    }
+  ],
+  "zgrade": [
+    {
+      "id": 2,
+      "brStanova": 80,
+      "lokacija": "284 Monica Avenue",
+      "stanari": [
+        "kdkd"
+      ],
+      "upravnikId": null,
+      "kvarovi": null
+    },
+    {
+      "id": 3,
+      "brStanova": 121,
+      "lokacija": "52 Sutherland Hill",
+      "stanari": [
+        "kdkd"
+      ],
+      "upravnikId": null,
+      "kvarovi": null
+    },
+    {
+      "id": 4,
+      "brStanova": 194,
+      "lokacija": "29 Gateway Pass",
+      "stanari": [
+        "kdkd"
+      ],
+      "upravnikId": 4,
+      "kvarovi": null
+    },
+    {
+      "id": 5,
+      "brStanova": 61,
+      "lokacija": "8376 Maple Wood Lane",
+      "stanari": [
+        "kdkd"
+      ],
+      "upravnikId": 5,
+      "kvarovi": null
+    },
+    {
+      "id": 6,
+      "brStanova": 130,
+      "lokacija": "030 Prairieview Junction",
+      "stanari": [
+        "kdkd"
+      ],
+      "upravnikId": 6,
+      "kvarovi": null
+    },
+    {
+      "id": 7,
+      "brStanova": 182,
+      "lokacija": "41 Thompson Trail",
+      "stanari": [
+        "kdkd"
+      ],
+      "upravnikId": 7,
+      "kvarovi": null
+    },
+    {
+      "id": 8,
+      "brStanova": 182,
+      "lokacija": "3032 Lyons Plaza",
+      "stanari": [
+        "kdkd"
+      ],
+      "upravnikId": 8,
+      "kvarovi": null
+    },
+    {
+      "id": 9,
+      "brStanova": 198,
+      "lokacija": "9 New Castle Plaza",
+      "stanari": [
+        "kdkd"
+      ],
+      "upravnikId": 9,
+      "kvarovi": null
+    },
+    {
+      "id": 10,
+      "brStanova": 97,
+      "lokacija": "78834 Kim Alley",
+      "stanari": [
+        "kdkd"
+      ],
+      "upravnikId": 10,
+      "kvarovi": null
+    },
+    {
+      "id": 11,
+      "brStanova": 64,
+      "lokacija": "6415 Arrowood Lane",
+      "stanari": [
+        "kdkd"
+      ],
+      "upravnikId": 11,
+      "kvarovi": null
+    },
+    {
+      "id": 12,
+      "brStanova": 74,
+      "lokacija": "5 Nancy Center",
+      "stanari": [
+        "kdkd"
+      ],
+      "upravnikId": null,
+      "kvarovi": null
+    },
+    {
+      "id": 13,
+      "brStanova": 145,
+      "lokacija": "9275 Towne Hill",
+      "stanari": [
+        "kdkd"
+      ],
+      "upravnikId": 13,
+      "kvarovi": null
+    },
+    {
+      "id": 14,
+      "brStanova": 158,
+      "lokacija": "22510 Marcy Road",
+      "stanari": [
+        "kdkd"
+      ],
+      "upravnikId": null,
+      "kvarovi": null
+    }
+  ],
+  "kvarovi": [
+    {
+      "urgentnost": "uniform",
+      "stanarId": 1,
+      "upravnikId": 1,
+      "naslov": "amet turpis",
+      "opis": "at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum",
+      "status": "data-warehouse",
+      "saradnikId": 1,
+      "zgradaLokacija": "0921 Independence Road",
+      "stan": 1
+    },
+    {
+      "urgentnost": "Up-sized",
+      "stanarId": 2,
+      "upravnikId": 2,
+      "naslov": "donec odio justo sollicitudin ut",
+      "opis": "proin at turpis a pede posuere nonummy integer non velit donec",
+      "status": "focus group",
+      "saradnikId": 2,
+      "zgradaLokacija": "739 Superior Crossing",
+      "stan": 2
+    },
+    {
+      "urgentnost": "Visionary",
+      "stanarId": 3,
+      "upravnikId": 3,
+      "naslov": "turpis sed",
+      "opis": "tortor risus dapibus augue vel accumsan tellus nisi eu orci",
+      "status": "6th generation",
+      "saradnikId": 3,
+      "zgradaLokacija": "853 Alpine Plaza",
+      "stan": 3
+    },
+    {
+      "urgentnost": "maximized",
+      "stanarId": 4,
+      "upravnikId": 4,
+      "naslov": "cras in",
+      "opis": "ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus",
+      "status": "orchestration",
+      "saradnikId": 4,
+      "zgradaLokacija": "7 Bunker Hill Street",
+      "stan": 4
+    },
+    {
+      "urgentnost": "challenge",
+      "stanarId": 5,
+      "upravnikId": 5,
+      "naslov": "arcu adipiscing molestie hendrerit",
+      "opis": "eleifend quam a odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla",
+      "status": "challenge",
+      "saradnikId": 5,
+      "zgradaLokacija": "17 Hansons Court",
+      "stan": 5
+    },
+    {
+      "urgentnost": "Distributed",
+      "stanarId": 6,
+      "upravnikId": 6,
+      "naslov": "semper sapien a libero",
+      "opis": "lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis",
+      "status": "bandwidth-monitored",
+      "saradnikId": 6,
+      "zgradaLokacija": "052 Amoth Alley",
+      "stan": 6
+    },
+    {
+      "urgentnost": "Customer-focused",
+      "stanarId": 7,
+      "upravnikId": 7,
+      "naslov": "aliquet maecenas",
+      "opis": "ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices",
+      "status": "service-desk",
+      "saradnikId": 7,
+      "zgradaLokacija": "81 Mayer Circle",
+      "stan": 7
+    },
+    {
+      "urgentnost": "empowering",
+      "stanarId": 8,
+      "upravnikId": 8,
+      "naslov": "ut",
+      "opis": "sapien cursus vestibulum proin eu mi nulla ac enim in",
+      "status": "Quality-focused",
+      "saradnikId": 8,
+      "zgradaLokacija": "9 Fulton Point",
+      "stan": 8
+    },
+    {
+      "urgentnost": "Function-based",
+      "stanarId": 9,
+      "upravnikId": 9,
+      "naslov": "duis ac nibh fusce lacus",
+      "opis": "tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est risus auctor",
+      "status": "info-mediaries",
+      "saradnikId": 9,
+      "zgradaLokacija": "14780 Spohn Pass",
+      "stan": 9
+    },
+    {
+      "urgentnost": "Grass-roots",
+      "stanarId": 10,
+      "upravnikId": 10,
+      "naslov": "pede libero quis orci",
+      "opis": "donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non",
+      "status": "Grass-roots",
+      "saradnikId": 10,
+      "zgradaLokacija": "5005 Carberry Court",
+      "stan": 10
+    },
+    {
+      "urgentnost": "Reduced",
+      "stanarId": 11,
+      "upravnikId": 11,
+      "naslov": "fermentum donec ut",
+      "opis": "felis ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec",
+      "status": "Ameliorated",
+      "saradnikId": 11,
+      "zgradaLokacija": "9457 Union Avenue",
+      "stan": 11
+    },
+    {
+      "urgentnost": "Realigned",
+      "stanarId": 12,
+      "upravnikId": 12,
+      "naslov": "donec pharetra",
+      "opis": "molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget",
+      "status": "interactive",
+      "saradnikId": 12,
+      "zgradaLokacija": "92 1st Pass",
+      "stan": 12
+    },
+    {
+      "urgentnost": "Managed",
+      "stanarId": 13,
+      "upravnikId": 13,
+      "naslov": "penatibus",
+      "opis": "donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique",
+      "status": "middleware",
+      "saradnikId": 13,
+      "zgradaLokacija": "3 Westridge Place",
+      "stan": 13
+    },
+    {
+      "urgentnost": "concept",
+      "stanarId": 14,
+      "upravnikId": 14,
+      "naslov": "nec dui",
+      "opis": "pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit amet nunc viverra",
+      "status": "local",
+      "saradnikId": 14,
+      "zgradaLokacija": "3 Blue Bill Park Drive",
+      "stan": 14
+    },
+    {
+      "urgentnost": "exuding",
+      "stanarId": 15,
+      "upravnikId": 15,
+      "naslov": "aliquet massa id lobortis",
+      "opis": "nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue eget semper",
+      "status": "focus group",
+      "saradnikId": 15,
+      "zgradaLokacija": "623 Jay Terrace",
+      "stan": 15
+    },
+    {
+      "urgentnost": "capacity",
+      "stanarId": 16,
+      "upravnikId": 16,
+      "naslov": "in lectus pellentesque at",
+      "opis": "et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet",
+      "status": "secondary",
+      "saradnikId": 16,
+      "zgradaLokacija": "3 Carey Crossing",
+      "stan": 16
+    },
+    {
+      "urgentnost": "migration",
+      "stanarId": 17,
+      "upravnikId": 17,
+      "naslov": "mauris enim leo rhoncus",
+      "opis": "urna ut tellus nulla ut erat id mauris vulputate elementum",
+      "status": "neutral",
+      "saradnikId": 17,
+      "zgradaLokacija": "6508 Macpherson Lane",
+      "stan": 17
+    },
+    {
+      "urgentnost": "toolset",
+      "stanarId": 18,
+      "upravnikId": 18,
+      "naslov": "quam",
+      "opis": "odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus",
+      "status": "hardware",
+      "saradnikId": 18,
+      "zgradaLokacija": "7505 Loomis Drive",
+      "stan": 18
+    },
+    {
+      "urgentnost": "hub",
+      "stanarId": 19,
+      "upravnikId": 19,
+      "naslov": "posuere",
+      "opis": "tempus semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in",
+      "status": "analyzer",
+      "saradnikId": 19,
+      "zgradaLokacija": "78 2nd Way",
+      "stan": 19
+    },
+    {
+      "urgentnost": "executive",
+      "stanarId": 20,
+      "upravnikId": 20,
+      "naslov": "eget nunc donec",
+      "opis": "aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio in hac",
+      "status": "Monitored",
+      "saradnikId": 20,
+      "zgradaLokacija": "16 Kinsman Court",
+      "stan": 20
+    }
+  ],
+  "dugovanja": [
+    {
+      "id": 2,
+      "saradnikFirma": "Yoveo",
+      "naziv": "approach",
+      "datum": "6/26/2022",
+      "vrednost": 88866
+    },
+    {
+      "id": 3,
+      "saradnikFirma": "Oyoba",
+      "naziv": "discrete",
+      "datum": "10/3/2022",
+      "vrednost": 78361
+    },
+    {
+      "id": 4,
+      "saradnikFirma": "Skinder",
+      "naziv": "standardization",
+      "datum": "6/3/2023",
+      "vrednost": 57535
+    },
+    {
+      "id": 5,
+      "saradnikFirma": "Aibox",
+      "naziv": "incremental",
+      "datum": "4/2/2023",
+      "vrednost": 27765
+    },
+    {
+      "id": 6,
+      "saradnikFirma": "Divanoodle",
+      "naziv": "dynamic",
+      "datum": "4/12/2023",
+      "vrednost": 28660
+    },
+    {
+      "id": 7,
+      "saradnikFirma": "Dynabox",
+      "naziv": "actuating",
+      "datum": "4/2/2023",
+      "vrednost": 71198
+    },
+    {
+      "id": 8,
+      "saradnikFirma": "Plajo",
+      "naziv": "Profit-focused",
+      "datum": "12/10/2022",
+      "vrednost": 39401
+    },
+    {
+      "id": 9,
+      "saradnikFirma": "Avamm",
+      "naziv": "static",
+      "datum": "9/8/2022",
+      "vrednost": 23971
+    },
+    {
+      "id": 10,
+      "saradnikFirma": "Yakijo",
+      "naziv": "contingency",
+      "datum": "4/2/2023",
+      "vrednost": 48894
+    },
+    {
+      "id": 11,
+      "saradnikFirma": "Zoonoodle",
+      "naziv": "Expanded",
+      "datum": "4/12/2023",
+      "vrednost": 53597
+    },
+    {
+      "id": 12,
+      "saradnikFirma": "Jamia",
+      "naziv": "Stand-alone",
+      "datum": "6/28/2022",
+      "vrednost": 20585
+    },
+    {
+      "id": 13,
+      "saradnikFirma": "Skimia",
+      "naziv": "superstructure",
+      "datum": "6/13/2022",
+      "vrednost": 87363
+    },
+    {
+      "id": 14,
+      "saradnikFirma": "Jaxworks",
+      "naziv": "analyzing",
+      "datum": "6/28/2022",
+      "vrednost": 92997
+    },
+    {
+      "id": 15,
+      "saradnikFirma": "Meejo",
+      "naziv": "benchmark",
+      "datum": "1/7/2023",
+      "vrednost": 57449
+    },
+    {
+      "id": 16,
+      "saradnikFirma": "Yoveo",
+      "naziv": "Customizable",
+      "datum": "11/13/2022",
+      "vrednost": 46518
+    },
+    {
+      "id": 17,
+      "saradnikFirma": "Skinder",
+      "naziv": "national",
+      "datum": "10/6/2022",
+      "vrednost": 34267
+    },
+    {
+      "id": 18,
+      "saradnikFirma": "Thoughtmix",
+      "naziv": "Ameliorated",
+      "datum": "8/26/2022",
+      "vrednost": 1974
+    },
+    {
+      "id": 19,
+      "saradnikFirma": "Skyvu",
+      "naziv": "Configurable",
+      "datum": "10/8/2022",
+      "vrednost": 59988
+    },
+    {
+      "id": 20,
+      "saradnikFirma": "Twitterlist",
+      "naziv": "web-enabled",
+      "datum": "2/18/2023",
+      "vrednost": 99279
+    }
+  ]
+}

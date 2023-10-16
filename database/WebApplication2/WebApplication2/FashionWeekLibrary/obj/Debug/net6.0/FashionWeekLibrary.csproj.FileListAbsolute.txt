@@ -1,0 +1,12 @@
+C:\Users\Milan\source\repos\WebApplication2\FashionWeekLibrary\obj\Debug\net6.0\FashionWeekLibrary.csproj.AssemblyReference.cache
+C:\Users\Milan\source\repos\WebApplication2\FashionWeekLibrary\obj\Debug\net6.0\FashionWeekLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milan\source\repos\WebApplication2\FashionWeekLibrary\obj\Debug\net6.0\FashionWeekLibrary.AssemblyInfoInputs.cache
+C:\Users\Milan\source\repos\WebApplication2\FashionWeekLibrary\obj\Debug\net6.0\FashionWeekLibrary.AssemblyInfo.cs
+C:\Users\Milan\source\repos\WebApplication2\FashionWeekLibrary\obj\Debug\net6.0\FashionWeekLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Milan\source\repos\WebApplication2\FashionWeekLibrary\bin\Debug\net6.0\FashionWeekLibrary.deps.json
+C:\Users\Milan\source\repos\WebApplication2\FashionWeekLibrary\bin\Debug\net6.0\FashionWeekLibrary.dll
+C:\Users\Milan\source\repos\WebApplication2\FashionWeekLibrary\bin\Debug\net6.0\FashionWeekLibrary.pdb
+C:\Users\Milan\source\repos\WebApplication2\FashionWeekLibrary\obj\Debug\net6.0\FashionWeekLibrary.dll
+C:\Users\Milan\source\repos\WebApplication2\FashionWeekLibrary\obj\Debug\net6.0\refint\FashionWeekLibrary.dll
+C:\Users\Milan\source\repos\WebApplication2\FashionWeekLibrary\obj\Debug\net6.0\FashionWeekLibrary.pdb
+C:\Users\Milan\source\repos\WebApplication2\FashionWeekLibrary\obj\Debug\net6.0\ref\FashionWeekLibrary.dll

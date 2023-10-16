@@ -1,0 +1,105 @@
+C:\III God\Sistemi baza Projekat\FashionWeek\FashionWeek\FashionWeek\bin\Debug\FashionWeek.exe.config
+C:\III God\Sistemi baza Projekat\FashionWeek\FashionWeek\FashionWeek\bin\Debug\FashionWeek.exe
+C:\III God\Sistemi baza Projekat\FashionWeek\FashionWeek\FashionWeek\bin\Debug\FashionWeek.pdb
+C:\III God\Sistemi baza Projekat\FashionWeek\FashionWeek\FashionWeek\bin\Debug\Antlr3.Runtime.dll
+C:\III God\Sistemi baza Projekat\FashionWeek\FashionWeek\FashionWeek\bin\Debug\FluentNHibernate.dll
+C:\III God\Sistemi baza Projekat\FashionWeek\FashionWeek\FashionWeek\bin\Debug\Iesi.Collections.dll
+C:\III God\Sistemi baza Projekat\FashionWeek\FashionWeek\FashionWeek\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\III God\Sistemi baza Projekat\FashionWeek\FashionWeek\FashionWeek\bin\Debug\NHibernate.dll
+C:\III God\Sistemi baza Projekat\FashionWeek\FashionWeek\FashionWeek\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\III God\Sistemi baza Projekat\FashionWeek\FashionWeek\FashionWeek\bin\Debug\Remotion.Linq.dll
+C:\III God\Sistemi baza Projekat\FashionWeek\FashionWeek\FashionWeek\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\III God\Sistemi baza Projekat\FashionWeek\FashionWeek\FashionWeek\bin\Debug\System.Buffers.dll
+C:\III God\Sistemi baza Projekat\FashionWeek\FashionWeek\FashionWeek\bin\Debug\System.Memory.dll
+C:\III God\Sistemi baza Projekat\FashionWeek\FashionWeek\FashionWeek\bin\Debug\System.Numerics.Vectors.dll
+C:\III God\Sistemi baza Projekat\FashionWeek\FashionWeek\FashionWeek\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\III God\Sistemi baza Projekat\FashionWeek\FashionWeek\FashionWeek\bin\Debug\System.Text.Encodings.Web.dll
+C:\III God\Sistemi baza Projekat\FashionWeek\FashionWeek\FashionWeek\bin\Debug\System.Text.Json.dll
+C:\III God\Sistemi baza Projekat\FashionWeek\FashionWeek\FashionWeek\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\III God\Sistemi baza Projekat\FashionWeek\FashionWeek\FashionWeek\bin\Debug\System.ValueTuple.dll
+C:\III God\Sistemi baza Projekat\FashionWeek\FashionWeek\FashionWeek\bin\Debug\Antlr3.Runtime.xml
+C:\III God\Sistemi baza Projekat\FashionWeek\FashionWeek\FashionWeek\bin\Debug\FluentNHibernate.pdb
+C:\III God\Sistemi baza Projekat\FashionWeek\FashionWeek\FashionWeek\bin\Debug\FluentNHibernate.xml
+C:\III God\Sistemi baza Projekat\FashionWeek\FashionWeek\FashionWeek\bin\Debug\Iesi.Collections.xml
+C:\III God\Sistemi baza Projekat\FashionWeek\FashionWeek\FashionWeek\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\III God\Sistemi baza Projekat\FashionWeek\FashionWeek\FashionWeek\bin\Debug\NHibernate.xml
+C:\III God\Sistemi baza Projekat\FashionWeek\FashionWeek\FashionWeek\bin\Debug\Remotion.Linq.xml
+C:\III God\Sistemi baza Projekat\FashionWeek\FashionWeek\FashionWeek\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\III God\Sistemi baza Projekat\FashionWeek\FashionWeek\FashionWeek\bin\Debug\System.Buffers.xml
+C:\III God\Sistemi baza Projekat\FashionWeek\FashionWeek\FashionWeek\bin\Debug\System.Memory.xml
+C:\III God\Sistemi baza Projekat\FashionWeek\FashionWeek\FashionWeek\bin\Debug\System.Numerics.Vectors.xml
+C:\III God\Sistemi baza Projekat\FashionWeek\FashionWeek\FashionWeek\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\III God\Sistemi baza Projekat\FashionWeek\FashionWeek\FashionWeek\bin\Debug\System.Text.Encodings.Web.xml
+C:\III God\Sistemi baza Projekat\FashionWeek\FashionWeek\FashionWeek\bin\Debug\System.Text.Json.xml
+C:\III God\Sistemi baza Projekat\FashionWeek\FashionWeek\FashionWeek\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\III God\Sistemi baza Projekat\FashionWeek\FashionWeek\FashionWeek\bin\Debug\System.ValueTuple.xml
+C:\III God\Sistemi baza Projekat\FashionWeek\FashionWeek\FashionWeek\obj\Debug\FashionWeek.csproj.AssemblyReference.cache
+C:\III God\Sistemi baza Projekat\FashionWeek\FashionWeek\FashionWeek\obj\Debug\FashionWeek.csproj.SuggestedBindingRedirects.cache
+C:\III God\Sistemi baza Projekat\FashionWeek\FashionWeek\FashionWeek\obj\Debug\FashionWeek.Form1.resources
+C:\III God\Sistemi baza Projekat\FashionWeek\FashionWeek\FashionWeek\obj\Debug\FashionWeek.Forme.DodajModnogKreatora.resources
+C:\III God\Sistemi baza Projekat\FashionWeek\FashionWeek\FashionWeek\obj\Debug\FashionWeek.Forme.DodajModnuKucuForm.resources
+C:\III God\Sistemi baza Projekat\FashionWeek\FashionWeek\FashionWeek\obj\Debug\FashionWeek.Forme.IzmeniModnogKreatoraForm.resources
+C:\III God\Sistemi baza Projekat\FashionWeek\FashionWeek\FashionWeek\obj\Debug\FashionWeek.Forme.IzmeniModnuKucuForm.resources
+C:\III God\Sistemi baza Projekat\FashionWeek\FashionWeek\FashionWeek\obj\Debug\FashionWeek.Forme.ModneKuceForm.resources
+C:\III God\Sistemi baza Projekat\FashionWeek\FashionWeek\FashionWeek\obj\Debug\FashionWeek.Forme.ModniKreatoriForm.resources
+C:\III God\Sistemi baza Projekat\FashionWeek\FashionWeek\FashionWeek\obj\Debug\FashionWeek.Forme.PrikaziRevijeForm.resources
+C:\III God\Sistemi baza Projekat\FashionWeek\FashionWeek\FashionWeek\obj\Debug\FashionWeek.Forme.RevijaForm.resources
+C:\III God\Sistemi baza Projekat\FashionWeek\FashionWeek\FashionWeek\obj\Debug\FashionWeek.PocetnaStranica.resources
+C:\III God\Sistemi baza Projekat\FashionWeek\FashionWeek\FashionWeek\obj\Debug\FashionWeek.Properties.Resources.resources
+C:\III God\Sistemi baza Projekat\FashionWeek\FashionWeek\FashionWeek\obj\Debug\FashionWeek.csproj.GenerateResource.cache
+C:\III God\Sistemi baza Projekat\FashionWeek\FashionWeek\FashionWeek\obj\Debug\FashionWeek.csproj.CoreCompileInputs.cache
+C:\III God\Sistemi baza Projekat\FashionWeek\FashionWeek\FashionWeek\obj\Debug\FashionWeek.csproj.CopyComplete
+C:\III God\Sistemi baza Projekat\FashionWeek\FashionWeek\FashionWeek\obj\Debug\FashionWeek.exe
+C:\III God\Sistemi baza Projekat\FashionWeek\FashionWeek\FashionWeek\obj\Debug\FashionWeek.pdb
+C:\Users\milic\Desktop\FashionWeek\FashionWeek\FashionWeek\bin\Debug\FashionWeek.exe.config
+C:\Users\milic\Desktop\FashionWeek\FashionWeek\FashionWeek\bin\Debug\FashionWeek.exe
+C:\Users\milic\Desktop\FashionWeek\FashionWeek\FashionWeek\bin\Debug\FashionWeek.pdb
+C:\Users\milic\Desktop\FashionWeek\FashionWeek\FashionWeek\bin\Debug\Antlr3.Runtime.dll
+C:\Users\milic\Desktop\FashionWeek\FashionWeek\FashionWeek\bin\Debug\FluentNHibernate.dll
+C:\Users\milic\Desktop\FashionWeek\FashionWeek\FashionWeek\bin\Debug\Iesi.Collections.dll
+C:\Users\milic\Desktop\FashionWeek\FashionWeek\FashionWeek\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\milic\Desktop\FashionWeek\FashionWeek\FashionWeek\bin\Debug\NHibernate.dll
+C:\Users\milic\Desktop\FashionWeek\FashionWeek\FashionWeek\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\milic\Desktop\FashionWeek\FashionWeek\FashionWeek\bin\Debug\Remotion.Linq.dll
+C:\Users\milic\Desktop\FashionWeek\FashionWeek\FashionWeek\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\milic\Desktop\FashionWeek\FashionWeek\FashionWeek\bin\Debug\System.Buffers.dll
+C:\Users\milic\Desktop\FashionWeek\FashionWeek\FashionWeek\bin\Debug\System.Memory.dll
+C:\Users\milic\Desktop\FashionWeek\FashionWeek\FashionWeek\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\milic\Desktop\FashionWeek\FashionWeek\FashionWeek\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\milic\Desktop\FashionWeek\FashionWeek\FashionWeek\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\milic\Desktop\FashionWeek\FashionWeek\FashionWeek\bin\Debug\System.Text.Json.dll
+C:\Users\milic\Desktop\FashionWeek\FashionWeek\FashionWeek\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\milic\Desktop\FashionWeek\FashionWeek\FashionWeek\bin\Debug\System.ValueTuple.dll
+C:\Users\milic\Desktop\FashionWeek\FashionWeek\FashionWeek\bin\Debug\Antlr3.Runtime.xml
+C:\Users\milic\Desktop\FashionWeek\FashionWeek\FashionWeek\bin\Debug\FluentNHibernate.pdb
+C:\Users\milic\Desktop\FashionWeek\FashionWeek\FashionWeek\bin\Debug\FluentNHibernate.xml
+C:\Users\milic\Desktop\FashionWeek\FashionWeek\FashionWeek\bin\Debug\Iesi.Collections.xml
+C:\Users\milic\Desktop\FashionWeek\FashionWeek\FashionWeek\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\milic\Desktop\FashionWeek\FashionWeek\FashionWeek\bin\Debug\NHibernate.xml
+C:\Users\milic\Desktop\FashionWeek\FashionWeek\FashionWeek\bin\Debug\Remotion.Linq.xml
+C:\Users\milic\Desktop\FashionWeek\FashionWeek\FashionWeek\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\milic\Desktop\FashionWeek\FashionWeek\FashionWeek\bin\Debug\System.Buffers.xml
+C:\Users\milic\Desktop\FashionWeek\FashionWeek\FashionWeek\bin\Debug\System.Memory.xml
+C:\Users\milic\Desktop\FashionWeek\FashionWeek\FashionWeek\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\milic\Desktop\FashionWeek\FashionWeek\FashionWeek\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\milic\Desktop\FashionWeek\FashionWeek\FashionWeek\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\milic\Desktop\FashionWeek\FashionWeek\FashionWeek\bin\Debug\System.Text.Json.xml
+C:\Users\milic\Desktop\FashionWeek\FashionWeek\FashionWeek\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\milic\Desktop\FashionWeek\FashionWeek\FashionWeek\bin\Debug\System.ValueTuple.xml
+C:\Users\milic\Desktop\FashionWeek\FashionWeek\FashionWeek\obj\Debug\FashionWeek.csproj.AssemblyReference.cache
+C:\Users\milic\Desktop\FashionWeek\FashionWeek\FashionWeek\obj\Debug\FashionWeek.Form1.resources
+C:\Users\milic\Desktop\FashionWeek\FashionWeek\FashionWeek\obj\Debug\FashionWeek.Forme.DodajModnogKreatora.resources
+C:\Users\milic\Desktop\FashionWeek\FashionWeek\FashionWeek\obj\Debug\FashionWeek.Forme.DodajModnuKucuForm.resources
+C:\Users\milic\Desktop\FashionWeek\FashionWeek\FashionWeek\obj\Debug\FashionWeek.Forme.IzmeniModnogKreatoraForm.resources
+C:\Users\milic\Desktop\FashionWeek\FashionWeek\FashionWeek\obj\Debug\FashionWeek.Forme.IzmeniModnuKucuForm.resources
+C:\Users\milic\Desktop\FashionWeek\FashionWeek\FashionWeek\obj\Debug\FashionWeek.Forme.ModneKuceForm.resources
+C:\Users\milic\Desktop\FashionWeek\FashionWeek\FashionWeek\obj\Debug\FashionWeek.Forme.ModniKreatoriForm.resources
+C:\Users\milic\Desktop\FashionWeek\FashionWeek\FashionWeek\obj\Debug\FashionWeek.Forme.PrikaziRevijeForm.resources
+C:\Users\milic\Desktop\FashionWeek\FashionWeek\FashionWeek\obj\Debug\FashionWeek.Forme.RevijaForm.resources
+C:\Users\milic\Desktop\FashionWeek\FashionWeek\FashionWeek\obj\Debug\FashionWeek.PocetnaStranica.resources
+C:\Users\milic\Desktop\FashionWeek\FashionWeek\FashionWeek\obj\Debug\FashionWeek.Properties.Resources.resources
+C:\Users\milic\Desktop\FashionWeek\FashionWeek\FashionWeek\obj\Debug\FashionWeek.csproj.GenerateResource.cache
+C:\Users\milic\Desktop\FashionWeek\FashionWeek\FashionWeek\obj\Debug\FashionWeek.csproj.CoreCompileInputs.cache
+C:\Users\milic\Desktop\FashionWeek\FashionWeek\FashionWeek\obj\Debug\FashionWeek.csproj.CopyComplete
+C:\Users\milic\Desktop\FashionWeek\FashionWeek\FashionWeek\obj\Debug\FashionWeek.exe
+C:\Users\milic\Desktop\FashionWeek\FashionWeek\FashionWeek\obj\Debug\FashionWeek.pdb
