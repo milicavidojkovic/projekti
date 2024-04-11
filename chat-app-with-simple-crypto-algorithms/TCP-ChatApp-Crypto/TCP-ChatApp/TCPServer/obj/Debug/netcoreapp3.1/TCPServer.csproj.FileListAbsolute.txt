@@ -1,0 +1,36 @@
+C:\Users\milic\Desktop\Milica\faks\cetvrta god\zaštita\TCPClient\TCPServer\bin\Debug\netcoreapp3.1\TCPServer.exe
+C:\Users\milic\Desktop\Milica\faks\cetvrta god\zaštita\TCPClient\TCPServer\bin\Debug\netcoreapp3.1\TCPServer.deps.json
+C:\Users\milic\Desktop\Milica\faks\cetvrta god\zaštita\TCPClient\TCPServer\bin\Debug\netcoreapp3.1\TCPServer.runtimeconfig.json
+C:\Users\milic\Desktop\Milica\faks\cetvrta god\zaštita\TCPClient\TCPServer\bin\Debug\netcoreapp3.1\TCPServer.runtimeconfig.dev.json
+C:\Users\milic\Desktop\Milica\faks\cetvrta god\zaštita\TCPClient\TCPServer\bin\Debug\netcoreapp3.1\TCPServer.dll
+C:\Users\milic\Desktop\Milica\faks\cetvrta god\zaštita\TCPClient\TCPServer\bin\Debug\netcoreapp3.1\TCPServer.pdb
+C:\Users\milic\Desktop\Milica\faks\cetvrta god\zaštita\TCPClient\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.Form1.resources
+C:\Users\milic\Desktop\Milica\faks\cetvrta god\zaštita\TCPClient\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.csproj.GenerateResource.cache
+C:\Users\milic\Desktop\Milica\faks\cetvrta god\zaštita\TCPClient\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milic\Desktop\Milica\faks\cetvrta god\zaštita\TCPClient\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.AssemblyInfoInputs.cache
+C:\Users\milic\Desktop\Milica\faks\cetvrta god\zaštita\TCPClient\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.AssemblyInfo.cs
+C:\Users\milic\Desktop\Milica\faks\cetvrta god\zaštita\TCPClient\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.csproj.CoreCompileInputs.cache
+C:\Users\milic\Desktop\Milica\faks\cetvrta god\zaštita\TCPClient\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.dll
+C:\Users\milic\Desktop\Milica\faks\cetvrta god\zaštita\TCPClient\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.pdb
+C:\Users\milic\Desktop\Milica\faks\cetvrta god\zaštita\TCPClient\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.genruntimeconfig.cache
+C:\Users\milic\Desktop\Milica\faks\cetvrta god\zaštita\TCPClient\TCPServer\bin\Debug\netcoreapp3.1\SuperSimpleTcp.dll
+C:\Users\milic\Desktop\Milica\faks\cetvrta god\zaštita\TCPClient\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.csproj.CopyComplete
+C:\Users\milic\Desktop\Milica\faks\cetvrta god\zaštita\TCPClient\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.csproj.AssemblyReference.cache
+C:\Users\milic\Desktop\Milica\faks\cetvrta god\zaštita\TCPClient - Proba\TCPServer\bin\Debug\netcoreapp3.1\TCPServer.exe
+C:\Users\milic\Desktop\Milica\faks\cetvrta god\zaštita\TCPClient - Proba\TCPServer\bin\Debug\netcoreapp3.1\TCPServer.deps.json
+C:\Users\milic\Desktop\Milica\faks\cetvrta god\zaštita\TCPClient - Proba\TCPServer\bin\Debug\netcoreapp3.1\TCPServer.runtimeconfig.json
+C:\Users\milic\Desktop\Milica\faks\cetvrta god\zaštita\TCPClient - Proba\TCPServer\bin\Debug\netcoreapp3.1\TCPServer.runtimeconfig.dev.json
+C:\Users\milic\Desktop\Milica\faks\cetvrta god\zaštita\TCPClient - Proba\TCPServer\bin\Debug\netcoreapp3.1\TCPServer.dll
+C:\Users\milic\Desktop\Milica\faks\cetvrta god\zaštita\TCPClient - Proba\TCPServer\bin\Debug\netcoreapp3.1\TCPServer.pdb
+C:\Users\milic\Desktop\Milica\faks\cetvrta god\zaštita\TCPClient - Proba\TCPServer\bin\Debug\netcoreapp3.1\SuperSimpleTcp.dll
+C:\Users\milic\Desktop\Milica\faks\cetvrta god\zaštita\TCPClient - Proba\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.csproj.AssemblyReference.cache
+C:\Users\milic\Desktop\Milica\faks\cetvrta god\zaštita\TCPClient - Proba\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.Form1.resources
+C:\Users\milic\Desktop\Milica\faks\cetvrta god\zaštita\TCPClient - Proba\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.csproj.GenerateResource.cache
+C:\Users\milic\Desktop\Milica\faks\cetvrta god\zaštita\TCPClient - Proba\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milic\Desktop\Milica\faks\cetvrta god\zaštita\TCPClient - Proba\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.AssemblyInfoInputs.cache
+C:\Users\milic\Desktop\Milica\faks\cetvrta god\zaštita\TCPClient - Proba\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.AssemblyInfo.cs
+C:\Users\milic\Desktop\Milica\faks\cetvrta god\zaštita\TCPClient - Proba\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.csproj.CoreCompileInputs.cache
+C:\Users\milic\Desktop\Milica\faks\cetvrta god\zaštita\TCPClient - Proba\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.csproj.CopyComplete
+C:\Users\milic\Desktop\Milica\faks\cetvrta god\zaštita\TCPClient - Proba\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.dll
+C:\Users\milic\Desktop\Milica\faks\cetvrta god\zaštita\TCPClient - Proba\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.pdb
+C:\Users\milic\Desktop\Milica\faks\cetvrta god\zaštita\TCPClient - Proba\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.genruntimeconfig.cache

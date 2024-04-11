@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mEQ4tlPJnwqZeQEAhIPkZixsVLp18oyCXAX4OZLCIJqXcADzP9hBrgmNkTa8gzNY7omCy6HctkjBXePkgwvR1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\milic\\Desktop\\Milica\\faks\\cetvrta god\\zaštita\\TCP-ChatApp\\TCPServer\\TCPServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\milic\\.nuget\\packages\\supersimpletcp\\3.0.13\\supersimpletcp.3.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
