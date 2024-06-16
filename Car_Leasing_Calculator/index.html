@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lease Calculator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Car Leasing Calculator</h1>
+        <form id="leaseForm">
+            <div class="row">
+                <div class="column">
+                    <label for="carType">Car Type:</label>
+                    <select id="carType">
+                        <option value="" selected disabled>Select Car Type</option>
+                        <option value="new">Brand New</option>
+                        <option value="used">Used</option>
+                    </select>
+                </div>
+                <div class="column">
+                    <label for="leasePeriod">Lease Period (months):</label>
+                    <select id="leasePeriod">
+                        <option value="12">12</option>
+                        <option value="24">24</option>
+                        <option value="36">36</option>
+                        <option value="48">48</option>
+                        <option value="60">60</option>
+                    </select>
+                </div>
+            </div>
+            <div class="row">
+                <div class="column">
+                    <label for="carValue">Car Value (€):</label>
+                    <input type="number" id="carValue" value="10000" min="10000" max="200000" step="10000" placeholder="Enter car value">
+                    <input type="range" id="carValueRange" min="10000" max="200000" step="10000" value="10000">
+                    <span id="carValueError" class="error-message"></span>
+                </div>
+                <div class="column">
+                    <label for="downPayment">Down Payment (%):</label>
+                    <input type="number" id="downPayment" value="10" min="10" max="50" step="5" placeholder="Enter down payment">
+                    <input type="range" id="downPaymentRange" min="10" max="50" step="5" value="10">
+                    <span id="downPaymentError" class="error-message"></span>
+                </div>
+            </div>
+            <h2>Leasing Details</h2>
+            <div id="calculationResult">
+                <div class="result-column">
+                    <div>
+                        <label>Total Leasing Cost:</label>
+                        <span id="totalLeasingCost"></span>
+                    </div>
+                    <div>
+                        <label>Down Payment:</label>
+                        <span id="downPaymentAmount"></span>
+                        
+                    </div>
+                </div>
+                <div class="result-column">
+                    <div>
+                        <label>Monthly Instalment:</label>
+                        <span id="monthlyInstalment"></span>
+                    </div>
+                    <div>
+                        <label>Interest Rate:</label>
+                        <span id="interestRate"></span>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+    <script src="main.js"></script>
+</body>
+</html>

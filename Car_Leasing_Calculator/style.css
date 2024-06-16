@@ -1,0 +1,123 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+.container {
+    width: 80%;
+    max-width: 600px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+.row {
+    display: flex;
+    margin-bottom: 10px;
+    flex-wrap: wrap;
+}
+
+.column {
+    flex: 1;
+    margin-right: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.column:last-child {
+    margin-right: 0;
+}
+
+label {
+    margin-bottom: 5px;
+    display: block;
+}
+
+input, select {
+    width: 100%;
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+#calculationResult {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.result-column {
+    flex: 1;
+    padding: 10px;
+    margin-right: 10px;
+}
+
+.result-column:first-child {
+    border-right: 2px solid #ccc;
+}
+
+.result-column:last-child {
+    padding-left: 10px;
+    margin-right: 0;
+}
+
+#calculationResult div {
+    margin-bottom: 10px;
+}
+
+#calculationResult div label {
+    width: 150px;
+    margin-right: 10px;
+    display: inline-block;
+}
+
+#calculationResult div span {
+    font-weight: bold;
+}
+
+/* Responsive design */
+@media (max-width: 600px) {
+    .row {
+        flex-direction: column;
+    }
+
+    .column {
+        margin-right: 0;
+    }
+
+    #calculationResult {
+        flex-direction: column;
+    }
+
+    .result-column {
+        margin-right: 0;
+        margin-bottom: 10px;
+        padding: 0;
+        border-right: none;
+        border-bottom: 2px solid #ccc;
+    }
+
+    .result-column:last-child {
+        margin-bottom: 0;
+        padding-bottom: 0;
+        border-bottom: none;
+    }
+}
