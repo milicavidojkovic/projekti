@@ -1,23 +1,33 @@
 document.addEventListener('DOMContentLoaded', () => {
+
     const carType = document.getElementById('carType');
+
     const leasePeriod = document.getElementById('leasePeriod');
+    
     const carValue = document.getElementById('carValue');
     const carValueRange = document.getElementById('carValueRange');
+
     const downPayment = document.getElementById('downPayment');
     const downPaymentRange = document.getElementById('downPaymentRange');
+
     const totalLeasingCost = document.getElementById('totalLeasingCost');
+
     const downPaymentAmount = document.getElementById('downPaymentAmount');
-    const downPaymentPercentage = document.getElementById('downPaymentPercentage');
+    
     const monthlyInstalment = document.getElementById('monthlyInstalment');
+
     const interestRate = document.getElementById('interestRate');
+
     const carValueError = document.getElementById('carValueError');
     const downPaymentError = document.getElementById('downPaymentError');
 
+    //usaglasuje range input i text input
     function synchronizeInputs() {
         carValueRange.value = carValue.value;
         downPaymentRange.value = downPayment.value;
     }
 
+    //ne dozvoljava da unos bude veci od maksimalnog
     carValue.addEventListener('input', () => {
         if (parseInt(carValue.value) > 200000) {
             carValue.value = 200000;
@@ -33,6 +43,7 @@ document.addEventListener('DOMContentLoaded', () => {
         calculateLease();
     });
 
+    //ne dozvoljava da unos bude veci od dosvoljenog maksimuma
     downPayment.addEventListener('input', () => {
         if (parseInt(downPayment.value) > 50) {
             downPayment.value = 50;
@@ -56,6 +67,7 @@ document.addEventListener('DOMContentLoaded', () => {
         calculateLease();
     });
 
+    //validira unos, ukoliko je unos manji od dozvoljenog minimuma, prikazuje error poruke
     function validateInputs() {
         let isValid = true;
 
@@ -76,11 +88,12 @@ document.addEventListener('DOMContentLoaded', () => {
         return isValid;
     }
 
+
+
     function calculateLease() {
         if (!validateInputs()) {
             totalLeasingCost.textContent = "";
             downPaymentAmount.textContent = "";
-            downPaymentPercentage.textContent = "";
             monthlyInstalment.textContent = "";
             interestRate.textContent = "";
             return;
@@ -91,14 +104,17 @@ document.addEventListener('DOMContentLoaded', () => {
         const selectedCarValue = parseInt(carValue.value);
         const selectedDownPaymentPercentage = parseInt(downPayment.value);
 
+        //mora da bude selektovano ili brand new ili used inace ne racuna
         if (!selectedCarType) {
             interestRate.textContent = "";
             return;
         }
 
+        //vec je setovano na pocetne vrednosti
         if (isNaN(selectedLeasePeriod) || isNaN(selectedCarValue) || isNaN(selectedDownPaymentPercentage)) {
             return;
         }
+
 
         const downPaymentAmountValue = (selectedDownPaymentPercentage / 100) * selectedCarValue;
         const principalAmount = selectedCarValue - downPaymentAmountValue;
