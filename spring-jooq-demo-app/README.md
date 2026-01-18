@@ -1,5 +1,5 @@
 # Spring Boot + jOOQ Tutorial  
-## Razvoj baze podataka i rad sa upitima pomoću Spring Boot i jOOQ
+## Razvoj baze podataka i rad sa upitima pomoću Spring Boot-a i jOOQ-a
 
 
 ## 1. Uvod – problem koji se rešava
